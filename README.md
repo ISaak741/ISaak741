@@ -39,7 +39,7 @@
 <!-- GitHub Stats Section -->
 <h2>📈 GitHub Stats</h2>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=isaak741&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Kebir Ishak's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=isaak741&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&v=2" alt="Kebir Ishak's GitHub Stats">
 
 </p>
 
