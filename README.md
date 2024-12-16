@@ -22,6 +22,7 @@
     </li>
     <li>
         <img src="https://img.shields.io/badge/Laravel-EF4135?style=flat&logo=laravel&logoColor=white" alt="Laravel logo">
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js logo">
         <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS logo">
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap logo">
     </li>
@@ -62,7 +63,7 @@
         <a href="https://leetcode.com/u/CS_Student/" target="_blank">
             <img src="https://img.shields.io/badge/LeetCode-F9C02D?style=flat&logo=leetcode&logoColor=black" alt="LeetCode logo">
         </a>
-        <strong>LeetCode:</strong> <a href="https://leetcode.com/u/CS_Student/" target="_blank">CS_Student</a>
+        <strong>LeetCode:</strong> <a href="https://leetcode.com/u/isaak_kbr/" target="_blank">Kebir Ishak</a>
     </li>
 </ul>
 
