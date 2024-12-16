@@ -7,7 +7,7 @@
     I am a passionate and motivated software engineering enthusiast actively seeking opportunities in the field. I hold a Bachelor's degree in Computer Systems and a Master's degree in Information System Engineering, both from the University of Djilali Liabes <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/2560px-Flag_of_Algeria.svg.png" alt="Algeria flag" width="24" height="16">.
 </p>
 <p>
-    With a strong foundation in Data Structures and Algorithms (DSA) and problem-solving skills honed through <a href="https://leetcode.com/u/CS_Student/" target="_blank">LeetCode</a>, I am eager to apply my knowledge and skills in backend engineering and software development.
+    With a strong foundation in Data Structures and Algorithms (DSA) and problem-solving skills honed through <a href="https://leetcode.com/u/isaak_kbr/" target="_blank">LeetCode</a>, I am eager to apply my knowledge and skills in backend engineering and software development.
 </p>
 
 <!-- Skills & Technologies Section -->
