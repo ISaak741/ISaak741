@@ -54,10 +54,10 @@
         <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/kebir-ishak-5a7119285/" target="_blank">Kebir Ishak</a>
     </li>
     <li>
-        <a href="mailto:chrisisaak22@gmail.com">
+        <a href="mailto:isaakkbr22@gmail.com">
             <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email logo">
         </a>
-        <strong>Email:</strong> <a href="mailto:chrisisaak22@gmail.com">chrisisaak22@gmail.com</a>
+        <strong>Email:</strong> <a href="mailto:isaakkbr22@gmail.com">isaakkbr22@gmail.com</a>
     </li>
     <li>
         <a href="https://leetcode.com/u/CS_Student/" target="_blank">
